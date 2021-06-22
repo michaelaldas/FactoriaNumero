@@ -1,0 +1,3 @@
+C:/Users/ALDAS/CLionProjects/Factotial_Numero/cmake-build-debug/CMakeFiles/Factotial_Numero.dir
+C:/Users/ALDAS/CLionProjects/Factotial_Numero/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ALDAS/CLionProjects/Factotial_Numero/cmake-build-debug/CMakeFiles/rebuild_cache.dir
